@@ -2,6 +2,7 @@
   <h1>module-unifier</h1>
   <p>module-unifier is a Node.js package that simplifies the process of requiring both npm packages and local files. It provides a unified interface for importing modules, reducing boilerplate code and improving code readability.
 </p>
+[![NPM Link](https://img.shields.io/npm/v/your-package-name.svg)](https://www.npmjs.com/package/module-unifier)
 </div>
 
 ## 📦 Install
