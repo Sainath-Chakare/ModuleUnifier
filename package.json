@@ -1,6 +1,6 @@
 {
   "name": "module-unifier",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Streamline your imports with a single require statement. This package simplifies the process of importing both npm modules and local files, allowing developers to unify all their requires in one clean, efficient declaration. Reduce boilerplate, improve code readability, and manage your dependencies with ease.",
   "main": "index.js",
   "scripts": {
